@@ -1,0 +1,172 @@
+{
+  "lorebookVersion": 4,
+  "entries": [
+    {
+      "text": "Description of how she glanced at her love and smiles:\nThe mahogany-haired adolescent girl glanced fleetingly at her rugged paramour, a crystalline sparkle in her eyes as she gazed happily upon his countenance. It was filled with an expression as enigmatic as shadows in the night. She pondered thoughtfully whether it would behoove her to request that she continue to follow him on his noble mission.\nDescription of Saphira being angry:\nSaphira’s muscled sides expanded and contracted as the great bellows of her lungs forced air through her scaled nostrils. Eragon thought of the raging inferno that she could now summon at will and send roaring out of her maw. It was an awesome sight when flames hot enough to melt metal rushed past her tongue and ivory teeth without harming them.\nDescription of how I watch the tide:\nAn alder leaf, loosened by wind, is drifting out with the tide. As it drifts, it bumps into the slender leg of a great blue heron staring intently through the rippled surface, then drifts on. The heron raises one leg out of the water and replaces it, a single step. As I watch, I, too, am drawn into the spread of silence. Slowly a bank of cloud approaches, slipping its bulged and billowing texture over the earth, folding the heron and the alder trees and my gazing body into the depths of a vast breathing being, enfolding us all within a common flesh, a common story now bursting with rain.\nDescription of Humans being animals:\nFor much of their history and all of prehistory, humans did not see themselves as being any different from the other animals among which they lived. Hunter-gatherers saw their prey as equals, if not superiors, and animals were worshipped as divinities in many traditional cultures. The humanist sense of a gulf between ourselves and other animals is an aberration. Feeble as it is today, the feeling of sharing a common destiny with other living things is embedded in the human psyche. Those who struggle to conserve what is left of the natural environment are moved by the love of living things, biophilia, the frail bond of feeling that ties humankind to the Earth.\nDescription of how, feeling at peace, I walked toward the beach:\nI waited another couple of minutes, then started on a walk toward the highway and the beach. The air was peculiar, the way it just hung, motionless, drifting off the water, and the only sound was the faint hiss of little breakers running over rock jetties. There weren’t any cars on Highway 90, and only one streetlamp burned about 150 yards down the road. I stood on the corner in front of the condos and looked up at our place, the dark bedroom where Cheryl was sleeping, then walked out into the middle of the empty highway and crossed to the beach side where the sand was gritty under my shoes, then came back, looking all around, soaking up everything. With the lights out things seemed to have lost their power. It was like nothing was holding anything, the resistance was gone, that little pressure that’s always against you, obliging you, keeping you in place.",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n***\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 550,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": 0
+      },
+      "lastUpdatedAt": 1657368527595,
+      "displayName": "Description:",
+      "id": "846e259f-e55a-446f-908d-e695dd668c14",
+      "keys": [
+        "/Description.*:/"
+      ],
+      "searchRange": 2000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d1ed5e9d-e710-4747-8474-d0a3a5578dbf",
+      "loreBiasGroups": [
+        {
+          "phrases": [
+            {
+              "sequences": [],
+              "sequence": "Description",
+              "type": 2
+            }
+          ],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": -0.5,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The Descriptor is based on \"Summaries, Sentiments, and Scenes\" by Magenta.Darkstar:\nhttps://cdn.discordapp.com/attachments/868472982471843870/974675068372271174/Sentiments_Summaries_and_Scenes_Beta.png\nThis is just a very slight edit to the Summaries entry. Most work has already been done by Magenta.Darkstar.\n\nResearch on using \"Description of thing:\" comes from placebomancer\nhttps://naidb.miraheze.org/wiki/Directing_the_Narrative\n\nI (TravelingRobot) merely took the Summaries entry from Magenta.Darkstar and rewrote it for the use with \"Description of...\"",
+      "contextConfig": {
+        "prefix": "",
+        "suffix": "\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1657369412338,
+      "displayName": "Credits",
+      "id": "b8bbd1d9-3dc3-49e6-8505-bc5b620a0cbb",
+      "keys": [],
+      "searchRange": 2000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d1ed5e9d-e710-4747-8474-d0a3a5578dbf",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "orderByKeyLocations": false
+  },
+  "categories": [
+    {
+      "name": "Prose Enhancer",
+      "id": "d1ed5e9d-e710-4747-8474-d0a3a5578dbf",
+      "enabled": true,
+      "createSubcontext": false,
+      "subcontextSettings": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "",
+          "suffix": "\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        },
+        "lastUpdatedAt": 1652887914802,
+        "displayName": "New Lorebook Entry",
+        "id": "2916dc55-2729-4e0b-954f-c393fb84f5a1",
+        "keys": [],
+        "searchRange": 1000,
+        "enabled": true,
+        "forceActivation": false,
+        "keyRelative": false,
+        "nonStoryActivatable": false,
+        "category": "",
+        "loreBiasGroups": [
+          {
+            "phrases": [],
+            "ensureSequenceFinish": false,
+            "generateOnce": true,
+            "bias": 0,
+            "enabled": true,
+            "whenInactive": false
+          }
+        ]
+      },
+      "useCategoryDefaults": true,
+      "categoryDefaults": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "",
+          "suffix": "\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        },
+        "lastUpdatedAt": 1652227462028,
+        "displayName": "New Lorebook Entry",
+        "id": "476f7a48-339a-4cd6-8290-f5182440b70a",
+        "keys": [],
+        "searchRange": 2000,
+        "enabled": true,
+        "forceActivation": false,
+        "keyRelative": false,
+        "nonStoryActivatable": false,
+        "category": "",
+        "loreBiasGroups": [
+          {
+            "phrases": [],
+            "ensureSequenceFinish": false,
+            "generateOnce": true,
+            "bias": 0,
+            "enabled": true,
+            "whenInactive": false
+          }
+        ]
+      },
+      "categoryBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ],
+      "open": false
+    }
+  ]
+}
