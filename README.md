@@ -1,4 +1,4 @@
-A collection of my NAI forebooks. Currently there is only one:
+A collection of my [NovelAI](https://novelai.net/) (NAI)forebooks. Currently there is only one:
 
 # [The Descriptor](the_descriptor)
 
@@ -23,3 +23,5 @@ The General Descriptor is based on "Summaries, Sentiments, and Scenes" lorebook 
 Research on using "Description of thing:" comes from [placebomancer](https://naidb.miraheze.org/wiki/Directing_the_Narrative).
 
 I added experimental entries to get sensory descriptions for v1_2. No guarantees that they actually work, but feel free to try!
+
+.
